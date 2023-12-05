@@ -137,3 +137,6 @@ For this task you should learn how to use **interactive rebase**, thus other way
 5. [Introduction to Git - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI)
 
 "Hello World"
+
+:)
+
